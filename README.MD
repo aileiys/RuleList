@@ -1,4 +1,4 @@
-RuleList
+规则列表
 ===========================
 该项目是通过规则列表实时生成生成多种规则配置文件,规则列表使用`JSON`格式编写,并需要使用规则列表语法
 
@@ -29,10 +29,10 @@ RuleList
 
 规则列表信息
 ------
-|规则列表|
-|----|
-|[默认规则列表\|CloudGate Default](https://raw.githubusercontent.com/BurpSuite/RuleList/master/Default.json)|
-|[开发规则列表\|CloudGate Developers](https://raw.githubusercontent.com/BurpSuite/RuleList/master/Developers.json)|
+|规则列表名称|规则列表地址|
+|----|-----|
+|默认规则列表|https://raw.githubusercontent.com/BurpSuite/RuleList/master/Default.json|
+|开发规则列表|https://raw.githubusercontent.com/BurpSuite/RuleList/master/Developers.json|
 
 规则列表语法
 ------
